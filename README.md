@@ -21,3 +21,5 @@ iDONi только знакомилась что существует такой
 Шпаргалка - https://code.s3.yandex.net/Python-dev/cheatsheets/003-python-tsikly-vetvlenija-logicheskie-vyrazhenija-shp/003-python-tsikly-vetvlenija-logicheskie-vyrazhenija-shp.html (очень полезно, очень даже)
 
 Функция - https://docs.python.org/3/tutorial/controlflow.html#defining-functions. Дорогая, iDONi, изучай!
+
+Шпор - https://code.s3.yandex.net/Python-dev/cheatsheets/004-python-funktsii-shpora/004-python-funktsii-shpora.html
