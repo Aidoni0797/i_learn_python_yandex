@@ -17,3 +17,5 @@ iDONi только знакомилась что существует такой
 
 Любой может написать программу, понятную компьютеру. Хорошие программисты пишут код, который могут понять другие люди.
 Мартин Фаулер, почему ты такой умный, вот бы стать как ты.
+
+Шпаргалка - https://code.s3.yandex.net/Python-dev/cheatsheets/003-python-tsikly-vetvlenija-logicheskie-vyrazhenija-shp/003-python-tsikly-vetvlenija-logicheskie-vyrazhenija-shp.html (очень полезно, очень даже)
