@@ -19,3 +19,5 @@ iDONi только знакомилась что существует такой
 Мартин Фаулер, почему ты такой умный, вот бы стать как ты.
 
 Шпаргалка - https://code.s3.yandex.net/Python-dev/cheatsheets/003-python-tsikly-vetvlenija-logicheskie-vyrazhenija-shp/003-python-tsikly-vetvlenija-logicheskie-vyrazhenija-shp.html (очень полезно, очень даже)
+
+Функция - https://docs.python.org/3/tutorial/controlflow.html#defining-functions. Дорогая, iDONi, изучай!
