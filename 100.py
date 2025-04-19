@@ -11,7 +11,7 @@ one_cube_perimeter = calc_cube_perimeter(3)
 # Вычислите общую длину палок, необходимых
 # для строительства 8 кубов,
 # и сохраните это значение в переменную full_length
-full_length = one_cube_perimeter
+full_length = one_cube_perimeter*8
 
 # А теперь напечатаем результат (в этой строке ничего изменять не нужно)
 print('Необходимый метраж палок для 8 кубов:', full_length)
