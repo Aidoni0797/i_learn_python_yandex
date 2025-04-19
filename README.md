@@ -23,3 +23,5 @@ iDONi только знакомилась что существует такой
 Функция - https://docs.python.org/3/tutorial/controlflow.html#defining-functions. Дорогая, iDONi, изучай!
 
 Шпор - https://code.s3.yandex.net/Python-dev/cheatsheets/004-python-funktsii-shpora/004-python-funktsii-shpora.html
+
+https://code.s3.yandex.net/Python-dev/cheatsheets/004-python-funktsii-shpora/004-python-funktsii-shpora.html
