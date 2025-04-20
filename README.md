@@ -25,3 +25,5 @@ iDONi только знакомилась что существует такой
 Шпор - https://code.s3.yandex.net/Python-dev/cheatsheets/004-python-funktsii-shpora/004-python-funktsii-shpora.html
 
 https://code.s3.yandex.net/Python-dev/cheatsheets/004-python-funktsii-shpora/004-python-funktsii-shpora.html
+
+https://code.s3.yandex.net/Python-dev/cheatsheets/005-python-slovari-i-mnozhestva-shpora/005-python-slovari-i-mnozhestva-shpora.html
